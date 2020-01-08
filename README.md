@@ -6,26 +6,29 @@ You can watch the serie on my YouTube channel via this link 👉 [sequelize orm 
 
 ## === Sequelize Content ===
 
-1. Introduction [×]
+- Introduction [×]
 
-2. Init Project & expressJS server & DB connection [×]
+- Init Project & expressJS server & DB connection [×]
 
-3. Create Models [×]
-  -> User.js
-  -> Post.js
-  -> Category.js
-  -> Tag.js
-  -> index.js
+- Create Models [×]
 
-4. Relationships [×]
-  -> one to many (categories & posts)
-  -> many to many (posts & tags)
+  - User.js
+  - Post.js
+  - Category.js
+  - Tag.js
+  - index.js
 
-5. Create Routes (CRUD Operations) [×]
-  -> create post's route
-  -> create category's route
-  -> create tag's route
+- Relationships [×]
+  
+  - one to many (categories & posts)
+  - many to many (posts & tags)
 
-6. Test our API (Postman) [×]
+- Create Routes (CRUD Operations) [×]
 
-7. Conclusion [×]
+  - create post's route
+  - create category's route
+  - create tag's route
+
+- Test our API (Postman) [×]
+
+- Conclusion [×]
